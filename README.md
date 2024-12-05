@@ -44,7 +44,7 @@ Di bawah ini, Anda akan menemukan tabel lengkap berisi **618 SWIFT Code Bank di 
 *(Tabel SWIFT Code akan disertakan di sini)*  
 
 <div style="text-align: center; margin-top: 20px;">
-  <a href="https://example.com/swift-code-indonesia.md" download>
+  <a href="https://github.com/rxhmadi/SWIFT-Code-Bank-di-Indonesia-Terlengkap/blob/main/swift_codes_indonesia.csv" download>
     <button style="padding: 10px 20px; font-size: 16px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">
       📥 Unduh Artikel
     </button>
